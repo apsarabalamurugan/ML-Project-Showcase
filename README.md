@@ -28,7 +28,51 @@ This repository highlights several machine learning projects completed as part o
   - Precision / Recall / F1
 - Cross-validation from scratch
 
-Key Concepts:
+### Key Concepts:
+* Linear vs non-linear boundaries
+* Feature engineering's effect on decision boundaries
+* Comparing performance using cross-validation
+
+## Project 3: Neural Networks & Regularization
+### Techniques Implemented:
+* Multi-layer Perceptron (MLP) from scratch using NumPy
+    * Forward pass
+    * Backpropagation
+    * Weight regularization
+* Activation Functions: ReLU
+* Loss Function: Squared Error
+* 
+### Key Concepts:
 * Building MLPs without high-level libraries
 * Overfitting & regularization
 * Visualizing model loss across epochs
+
+## Project 4: Naive Bayes (Supervised & Semi-Supervised)
+### Techniques Implemented:
+* Softmax function
+* Fully supervised Naive Bayes classifier
+* Semi-supervised Naive Bayes classifier using EM-style updates
+  
+### Key Concepts:
+* Probabilistic models for classification
+* Handling missing or unlabeled data
+
+## Project 5: Reinforcement Learning & Fairness
+### Techniques Implemented:
+* Custom RL agents in OpenAI Gym
+* Two learning algorithms:
+    * Tabular Q-learning
+    * Policy Gradient Methods
+* Fairness investigation in simulated environments
+
+### Key Concepts:
+* Impact of hyperparameters on convergence
+* Ethical considerations in RL agents' decision-making
+* Exploration vs exploitation balance
+
+## 📌 Notes
+🚫 The code and assignment prompts are kept private to maintain academic integrity. 
+📈 Results, plots, and observations available upon request.
+
+
+
