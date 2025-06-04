@@ -6,8 +6,8 @@ This repository highlights several machine learning projects completed as part o
 ### Techniques Implemented:
 
 - K-Nearest Neighbors classifier using:
--   Euclidean
--   Manhattan
+  - Euclidean
+  - Manhattan
 - Cosine distances
 - Information Gain & ID3 Decision Tree
 - Prior probability classifier
@@ -17,3 +17,18 @@ This repository highlights several machine learning projects completed as part o
 - Understanding how decision trees split data based on entropy
 - Prior-based classification performance vs data-driven models
 
+## Project 2: Perceptron and Logistic Regression
+### Techniques Implemented:
+- Perceptron algorithm (binary classifier)
+- Logistic Regression with:
+  - Polynomial feature transformation
+  - Manual gradient descent training
+- Classification metrics:
+  - Accuracy
+  - Precision / Recall / F1
+- Cross-validation from scratch
+
+Key Concepts:
+* Building MLPs without high-level libraries
+* Overfitting & regularization
+* Visualizing model loss across epochs
