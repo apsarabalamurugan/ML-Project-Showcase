@@ -5,7 +5,9 @@ This repository highlights several machine learning projects completed as part o
 ## Project 1: KNN, Decision Trees, and Priors
 ### Techniques Implemented:
 
-- K-Nearest Neighbors classifier using: Euclidean, Manhattan
+- K-Nearest Neighbors classifier using:
+-   Euclidean
+-   Manhattan
 - Cosine distances
 - Information Gain & ID3 Decision Tree
 - Prior probability classifier
